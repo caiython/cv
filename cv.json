@@ -1,0 +1,192 @@
+{
+	"footer": {
+		"lastUpdate": "12 de Setembro de 2023",
+		"linkedin": "http://br.linkedin.com/in/caiocvl"
+	},
+	"content": [
+		{
+			"type": "header",
+			"data": {
+				"title": "Caio Chagas Vieira Lopes",
+				"subtitle": "Solteiro, brasileiro | 22 anos",
+				"colorHighlight": "#3C5598",
+				"logo": "https://raw.githubusercontent.com/caiython/cv/main/src/cy.png"
+			}
+		},
+		{
+			"type": "contact-block",
+			"data": {
+				"address": "Rua das Violetas, 87 - Vila Natal - 11538-050 - Cubatão, SP",
+				"contacts": [
+					{
+						"icon": "whatsapp",
+						"text": "(13) 99731-0773"
+					},
+					{
+						"icon": "envelope",
+						"text": "caiocvlopes@gmail.com",
+						"href": "mailto:caiocvlopes@gmail.com"
+					},
+					{
+						"icon": "globe",
+						"text": "caiochagas.dev",
+						"href": "https://caiochagas.dev"
+					},
+					{
+						"icon": "github",
+						"text": "caiython",
+						"href": "https://github.com/caiython"
+					},
+					{
+						"icon": "linkedin",
+						"text": "Caio Chagas",
+						"href": "http://br.linkedin.com/in/caiocvl"
+					}
+				]
+			}
+		},
+		{
+			"title": "Sobre mim",
+			"content": [
+				{
+					"type": "text-block",
+					"data": "Olá! Eu sou apaixonado por desenvolvimento de software, ciência de dados, aprendizado de máquina e tecnologia em geral. Sou uma pessoa muito metódica e objetiva. Eu adoro ensinar e tenho como um dos meus projetos o de levar conhecimento de programação de forma gratuita para crianças que não possuem acesso a esse tipo de conteúdo."
+				},
+				{
+					"type": "small-title-and-text",
+					"data": {
+						"title": "Idiomas",
+						"text": "Português nativo/fluente e Inglês intermediário/técnico"
+					}
+				}
+			]
+		},
+		{
+			"title": "Experiência profissional",
+			"content": [
+				{
+					"type": "history",
+					"data": [
+						{
+							"position": "Analista de Suporte Computacional",
+							"provider": "IPCOMM TECNOLOGIA LTDA",
+							"description": "Desenvolvimento e implantação de sistemas informatizados dimensionando requisitos e funcionalidade dos sistemas, especificando sua arquitetura, escolhendo ferramentas de desenvolvimento, especificando programas, codificando aplicativos. Administração de ambiente informatizado, prestação de suporte técnico ao cliente, elaboração de documentação técnica. Estabelecimento de padrões, oferecimento de soluções para ambientes informatizados e pesquisa de tecnologias em informática.",
+							"date": "Set/21 - Atual"
+						},
+						{
+							"position": "Instrutor de Aprendizagem e Treinamento Agropecuário",
+							"provider": "CONCEITO CURSOS E TREINAMENTOS LTDA",
+							"description": "Preparação e apresentação de materiais didáticos, avaliação de progresso de alunos, personalização de ensino, orientação e suporte, mentoria e aconselhamento, e gestão de laboratórios de informática.",
+							"date": "Jun/21 - Ago/21"
+						},
+						{
+							"position": "Estagiário",
+							"provider": "CONCEITO CURSOS E TREINAMENTOS LTDA",
+							"description": "Preparação e apresentação de materiais didáticos, avaliação de progresso de alunos, personalização de ensino, orientação e suporte, mentoria e aconselhamento, e gestão de laboratórios de informática.",
+							"date": "Nov/20 - Jun/21"				
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Cursos",
+			"content": [
+				{
+					"type": "courses",
+					"avoidPageBreak": true,
+					"data": [
+						{
+							"institute": " DIO (Digital Innovation One)",
+							"course": "Potência Tech powered by iFood | Ciência de Dados",
+							"date": "Ago/2023",
+							"logo": "https://raw.githubusercontent.com/caiython/cv/main/src/dio.png"
+						},
+						{
+							"institute": "Data Science Academy",
+							"course": "Python Fundamentos Para Análise de Dados 3.0",
+							"date": "Out/2022",
+							"logo": "https://raw.githubusercontent.com/caiython/cv/main/src/dsa.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Habilidades",
+			"content": [
+				{
+					"type": "nodelist",
+					"data": [
+						"Git",
+						"Github",
+						"Python",
+						"Jupyter Notebook",
+						"Pandas",
+						"Numpy",
+						"Matplotlib",
+						"Statsmodels",
+						"Scikitlearn",
+						"Tensorflow",
+						"Flask",
+						"Selenium",
+						"BeautifulSoup4",
+						"Netmiko",
+						"Software File System",
+						"MySQL",
+						"SQLite",
+						"PostgreSQL",
+						"MongoDB",
+						"C",
+						"PHP",
+						"Batch",
+						"Arduino",
+						"HTML5",
+						"CSS3",
+						"Bootstrap"
+					]
+				}
+			]
+		},
+		{
+			"title": "Em desenvolvimento...",
+			"content": [
+				{
+					"type": "nodelist",
+					"data": [
+						"Django",
+						"FastAPI",
+						"PyTorch",
+						"Transformers"
+					]
+				}
+			]
+		},
+		{
+			"title": "Softwares",
+			"content": [
+				{
+					"type": "nodelist",
+					"data": [
+						"SO Windows",
+						"Kernel Linux",
+						"OpenSSH",
+						"Visual Studio Code",
+						"XAMPP",
+						"Adobe Photoshop",
+						"Microsoft Office",
+						"Google Docs/Sheets Presentations",
+						"Postman",
+						"Github Desktop",
+						"Notepad++",
+						"Sublime Text",
+						"Pycharm",
+						"Oracle VM VirtualBox",
+						"AnyDesk",
+						"TeamViewer"
+					]
+				}
+			]
+		}
+	]
+}
