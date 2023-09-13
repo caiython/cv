@@ -90,6 +90,23 @@
 			]
 		},
 		{
+			"title": "Formação Acadêmica",
+			"content": [
+			        {
+			                "type": "courses",
+					"avoidPageBreak": true,
+					"data": [
+						{
+							"institute": "ESAMC Santos",
+							"course": "Bacharelado em Engenharia da Computação",
+							"date": "Jan/2019 a Dez/2023",
+							"logo": "https://raw.githubusercontent.com/caiython/cv/main/src/graduation_cap.png"
+						}
+					]
+			        }
+			]
+		},
+		{
 			"title": "Cursos",
 			"content": [
 				{
